@@ -32,7 +32,7 @@ else:
 
 a = 25
 b = 26
-if (a == b):
+if (a >= b):
     print("vishal")
 else:
     print("nirmal")
